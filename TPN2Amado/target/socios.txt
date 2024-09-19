@@ -1,0 +1,42 @@
+Socio Nº1
+Nombre: Aquino
+Apellido: Repruevo
+DNI: 34564555
+Categoría: Mayor
+Teléfono: 1530363055
+
+Socio Nº2
+Nombre: Estela
+Apellido: Prende Java
+DNI: 50564522
+Categoría: Cadete
+Teléfono: 1530363080
+
+Socio Nº3
+Nombre: Armando
+Apellido: Clases
+DNI: 62022522
+Categoría: Menor
+Teléfono: 42256966
+
+Socio Nº4
+Nombre: Felicia
+Apellido: Apruevo
+DNI: 5665233
+Categoría: Mayor
+Teléfono: 45886966
+
+Socio Nº5
+Nombre: Diego
+Apellido: Lanota
+DNI: 36258233
+Categoría: Mayor
+Teléfono: 1130698855
+
+Socio Nº6
+Nombre: Selva
+Apellido: Promocionado
+DNI: 36258000
+Categoría: Mayor
+Teléfono: 1130698000
+

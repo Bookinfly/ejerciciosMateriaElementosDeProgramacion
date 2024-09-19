@@ -1,0 +1,7 @@
+Socio Nº8
+Nombre: asxd
+Apellido: dsc
+DNI: 222
+Categoría: Cadete
+Teléfono: 123123
+
